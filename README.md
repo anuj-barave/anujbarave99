@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anujbarave99
-- 👀 I’m Web Developer
+- 👀 I’m Computer Science Engineer
 - 🌱 I’m currently learning Devops
 
 <!---
